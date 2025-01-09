@@ -49,7 +49,8 @@ public class _2_TypeConversion
         ///floating numbers
         float f = 10.5f;
         i = (int)f;//loss of .5
-        Console.WriteLine(i);//value is 10
+        Console.WriteLine(i);
+        //value is 10
 
         //character 
         b = 41;
